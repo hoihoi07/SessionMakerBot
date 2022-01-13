@@ -86,7 +86,7 @@ START_OTHER_USERS_TEXT = get_config(
         "Thank you for using me 😬\n\n"
         "This is an Open Source Project available on "
         "https://github.com/SpEcHIDe/SessionMakerBot\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "ℹ️ Subscribe @jetbots if you 😍 using this bot❗️❣️"
     )
 )
 INPUT_PHONE_NUMBER = get_config("INPUT_PHONE_NUMBER", (
@@ -141,6 +141,6 @@ ACC_PROK_WITH_TFA = get_config("ACC_PROK_WITH_TFA", (
 SESSION_GENERATED_USING = get_config("SESSION_GENERATED_USING", (
     "Thank you for using me 😬\n\n"
     "This is an Open Source Project available on "
-    "https://github.com/SpEcHIDe/SessionMakerBot\n\n\n"
+    "https://t.me/jettastic\n\n\n"
     "👆👆👆 String Session successfully generated 👆👆👆"
 ))
