@@ -134,9 +134,9 @@ ACC_PROK_WITH_TFA = get_config("ACC_PROK_WITH_TFA", (
     "<i>This message will only be used for generating your "
     "string session, and will never be used for any other purposes "
     "than for which it is asked.</i>\n\n"
-    "It is recommended to use "
-    "https://github.com/SpEcHIDe/SessionMakerBot and not "
-    "use this hosted version"
+    "It is recommended to join our channel for more bots "
+    "https://t.me/jetbots and not "
+    "Also we also provide bot for personal use contact @jettastic to get any bot for personal use or for group or channel"
 ))
 SESSION_GENERATED_USING = get_config("SESSION_GENERATED_USING", (
     "Thank you for using me 😬\n\n"
