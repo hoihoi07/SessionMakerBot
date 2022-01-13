@@ -84,8 +84,8 @@ START_OTHER_USERS_TEXT = get_config(
     (
         "Hi. ☺️\n"
         "Thank you for using me 😬\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHIDe/SessionMakerBot\n"
+        "Joij our Bots Channel for Other bots, We also provide bots for personal or for other use , For this contact Develoer, Username Below"
+        "https://t.me/jettastic\n"
         "ℹ️ Subscribe @jetbots if you 😍 using this bot❗️❣️"
     )
 )
